@@ -1,9 +1,26 @@
-.navbar{
-    background-color: bisque;
-    padding: 15px;
+.titulo{
+    text-decoration: none;
+    display: inline;
 }
+
+h3{
+    color: black;
+    font-size: 50px;
+    margin: 20px;
+}
+
+.navBar{
+    background-color: #FAF6D2;
+}
+
 
 .carrito {
     width: 45px;
-    margin: 8px;
+    margin-left: 1250px;
 }
+
+
+
+
+
+
